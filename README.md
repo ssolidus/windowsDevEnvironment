@@ -11,11 +11,11 @@ Cmder is the best console emulator.
   - Run `install.bat`
   - To install packages, use `pact <packagename>`
 ### Cmder
-### Installation
+#### Installation
  - Get [Cmder](http://cmder.net/)
 
-### Configuration
-#### Babun integration
+#### Configuration
+##### Babun integration
  - Go to Settings>Startup>Tasks
  - Create a new task
  - Task parameters:
@@ -25,10 +25,10 @@ Cmder is the best console emulator.
   
 `%userprofile%\.babun\cygwin\bin\mintty.exe /bin/env CHERE_INVOKING=1 /bin/zsh.exe`
 
-#### Set font
+##### Set font
 Go to  **Settings** > **Main** and select desired font. Consolas is my preferred monospace font on Windows.
 
-### Style
+##### Style
 - Set a preferred style under **Settings** > **Features** > **Colors** 
 
 My configuration:
