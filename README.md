@@ -56,6 +56,7 @@ Install [VSCode](https://code.visualstudio.com/)
 VSCode requires the following flags to be passed for MacType to work correctly:
 - Right-click the shortcut to **VSCode** > **Properties**
 - In the **Target** field, append the following string:
+
 `` --disable-lcd-text --disable-gpu --disable-directwrite-for-ui --disable-font-antialiasing``
 
 #### Babun integration
