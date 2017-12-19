@@ -47,6 +47,7 @@ Mactype hooks provides [freetype](https://www.freetype.org/developer.html) on Wi
  - Choose your desire loading mode. I prefer **Load with MacTray** with **Standalone loading mode**, as it allows you to toggle exclusions for incompatible programs.
 
 ## Code editing
+**Please note that VSCode no longer supports MacType due to upstream deprecation of the `--disable-directwrite` flag. Consider using Sublime Text if you wish to use MacType with your editor**
 ### Installation
 Install [VSCode](https://code.visualstudio.com/)
 ### Configuration
